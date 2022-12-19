@@ -1,11 +1,9 @@
 import java.io.IOException;
-
 import javax.swing.JFrame;
 import javax.sound.sampled.AudioFileFormat;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.UnsupportedAudioFileException;
-
 
 public class main extends JFrame{
 

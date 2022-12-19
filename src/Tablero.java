@@ -1,8 +1,4 @@
 /* CLASE Tablero.java Controlador del juego.
- * Creado por: 
- * 
- * FECHA: 
- * Version 1
  */
 
 import java.awt.Color;
