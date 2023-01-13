@@ -1,5 +1,7 @@
 /* CLASE Tablero.java Controlador del juego.
  */
+/* Solo introduzco un comentario
+ */
 
 import java.awt.Color;
 import java.awt.Font;
